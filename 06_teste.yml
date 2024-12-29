@@ -1,2 +1,4 @@
 Teste de escrita apos a alteração do arquivo /etc/wsl.conf dentro da distro para que o VS code crie arquivos com o usuário comum
 e não como root.
+
+Nova linha para evidenciar mudança no arquivo 
